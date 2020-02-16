@@ -1,0 +1,4 @@
+requests
+mysql-connector-python==8.0.5
+webargs==2.0.0
+pytest
